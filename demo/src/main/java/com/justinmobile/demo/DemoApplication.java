@@ -10,15 +10,20 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
-    public void test(){
+    public void test() {
 
     }
 
-    public void test2(){
+    public void test2() {
 
     }
 
-    public void test3(){
+    public void test3() {
+
+    }
+
+    public void test4() {
 
     }
 }
+
